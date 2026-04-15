@@ -5,13 +5,13 @@
 
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">
-  Fullstack Web Developer & Open Source Contributor | B.Tech CSE Student
+  CLOUD & DEVOPS ENGINEER | B.Tech CSE Student
 </h3>
 
 
 <p align="center">
   <i>
-Full-stack web developer and open-source contributor, currently building Optimizer AI, strengthening DSA and system design skills, and experienced in C++, Java, React, Node and modern web development.
+Aspiring Cloud Engineer , currently building scalable cloud-based applications . Skilled in AWS, Docker, and modern DevOps practices, while strengthening knowledge in Data Structures, System Design, and distributed systems. Proficient in C++.
   </i>
 </p>
 
