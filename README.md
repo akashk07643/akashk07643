@@ -29,11 +29,10 @@ Aspiring Cloud Engineer , currently building scalable cloud-based applications .
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,git,github,graphql,materialui,mysql,netlify,nextjs,nodejs,postgres,react,solidity,supabase,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javaScript,git,github,AWS,Docker,kubernates,jenkins,)](https://skillicons.dev)
 
 <br/>
 
 </div>
 
 ## 🏆 Achievements
-       > *"We would like to thank all the contributors this month for these versions, truly inspiring work!"* — @HarelM (Owner) [Link](https://github.com/maplibre/maplibre.github.io/issues/561#issuecomment-3972671718)
