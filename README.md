@@ -11,7 +11,7 @@
 <p align="center">
   <i>
     Aspiring Cloud Engineer, currently building scalable cloud-based applications.
-    Skilled in AWS, Docker, and modern DevOps practices while strengthening
+    Skilled in AWS, Docker, Kubernetes, and modern DevOps practices while strengthening
     knowledge in Data Structures, System Design, and distributed systems.
     Proficient in C++.
   </i>
@@ -51,19 +51,38 @@
 
 ## 🚀 Featured Projects
 
+### ⚙️ DevOps CI/CD Automation Pipeline
+**Tech Stack:** Jenkins, Docker, GitHub, AWS EC2, CloudWatch, Load Balancer  
+📅 Apr 2026
+
+- Developed an end-to-end CI/CD pipeline for automated application deployment on AWS.
+- Automated application build, testing, and deployment using Jenkins pipelines.
+- Managed Docker containers, Jenkins jobs, and AWS EC2 resources for efficient deployments.
+- Integrated AWS CloudWatch and Application Load Balancer for monitoring, logging, and traffic management.
+- Improved deployment speed, scalability, and system reliability through automation.
+
+---
+
 ### 🎬 MovieMitraa | DSA Movie Booking System
+
 - Built using HTML, CSS, and JavaScript
 - Applied DSA concepts for seat booking management
 - Responsive and user-friendly UI
 
+---
+
 ### ☁️ Cloud-Based Photo Sharing Application
-- Scalable cloud-based architecture project
+
+- Working on scalable cloud-based architecture
 - Learning AWS deployment and storage services
 - Focused on secure media sharing
 
+---
+
 ### 🎤 Voice-Controlled Laptop Assistant
-- Accessibility-focused voice automation project
-- Helps users control laptops through voice commands
+
+- Building an accessibility-focused voice automation project
+- Helps users control laptops completely through voice commands
 - Exploring AI and automation integration
 
 ---
