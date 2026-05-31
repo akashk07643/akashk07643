@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 
 <h3 align="center">
-  ☁️ CLOUD & DEVOPS ENGINEER | B.Tech CSE Student
+  ☁️ CLOUD & DEVOPS ENGINEER | B.Tech CSE Student at LPU
 </h3>
 
 <p align="center">
